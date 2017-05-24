@@ -1,0 +1,5 @@
+O que acontece ao iniciar um repositório? 
+	- O git cria os meta dados nescessário para que o versionamento seja feito
+
+Por que você precisa fazer isso?
+	- Nem todo diretório será usado com git
